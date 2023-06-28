@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "vec2dtransf"]
 	path = vec2dtransf
 	url = https://github.com/gacarrillor/vec2dtransf
-	shallow = true
-	registered = true
